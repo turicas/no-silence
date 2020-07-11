@@ -1,6 +1,6 @@
 # no silence
 
-Automatically detect and delete silince parts in videos.
+Automatically detect and delete silence parts in videos.
 
 This script is experimental and a lot of manual adjustments/tests must be done
 to have the best possible results. There are a lot of tasks related to
